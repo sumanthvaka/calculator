@@ -25,3 +25,9 @@
   background-color: #f5923e;
   color: white;
 }
+
+.clickEffect:hover{
+  transform: scale(0.9);
+  background-color: darkgray;
+  color: white;
+}
