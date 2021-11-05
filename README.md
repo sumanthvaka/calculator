@@ -1,7 +1,9 @@
 Calculator
 ---
 
-React app calculator 
+Created with *create-react-app*. 
+
+React app calculator
 
 Install
 ---
